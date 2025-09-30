@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: main
+    tables:
+      - name: yellow_trips_2024
+      - name: green_trips_2024
+      - name: vehicle_emissions
